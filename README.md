@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development and programming.
 - 🌱 I’m currently learning JavaScript and API.
 - 💞️ I’m looking to collaborate on web apps and open-source projects.
-- 📫 You can reach me via email at fadakalmomen@example.com.
+- 📫 You can reach me via email at fadakalmomen@gmail.com.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I like to design sometimes!
 <!---
